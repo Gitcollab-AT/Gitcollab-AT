@@ -1,24 +1,40 @@
-Aqui está um exemplo de profile para o seu GitHub:  
+<h1 align="center">👋 Olá, eu sou o Augusto Moreira!</h1>
+
+<p align="center">
+🚀 Profissional de Tecnologia e Gestão | Engenharia de Dados | Transformação Digital  
+</p>
 
 ---
 
-# 👋 Olá, eu sou o Augusto Moreira!  
+### 🏆 Sobre mim  
+📌 **Formação:**  
+🎓 Administração de Empresas | MBA em Planejamento Empresarial  
+📊 Pós em Arquitetura e Engenharia de Dados | 🚀 Cursando Engenharia de Software  
 
-🚀 **Profissional de Tecnologia e Gestão** com experiência em **gestão de projetos, engenharia de dados e transformação digital**. Atuo na interseção entre **negócios e tecnologia**, aplicando metodologias ágeis para otimizar processos e impulsionar resultados.  
+📌 **Experiência:**  
+💼 Gestão de Produtos e Projetos | 📊 Análise de Dados e BI  
+💰 Planejamento Financeiro | 🛠️ Vendas de TI B2B  
 
-## 🏆 Sobre mim  
-🔹 **Formação**: Administração de Empresas | MBA em Planejamento Empresarial | Pós em Arquitetura e Engenharia de Dados | Cursando Engenharia de Software  
-🔹 **Experiência**: Gestão de produtos, análise de requisitos, BI, modelagem de dados e otimização de processos  
-🔹 **Ferramentas**: SQL, Python, Power BI, dbt, PySpark, Google Cloud, AWS, GitHub  
-🔹 **Certificações**: PSM I, Agile Coach Professional, Especialista em Pipefy  
+📌 **Ferramentas & Tecnologias:**  
+🔹 SQL | Python | Power BI | dbt | PySpark  
+🔹 Google Cloud | AWS | GitHub | ERP | RPA  
 
-## 💼 Experiência Profissional  
-💡 **Gestão de Produtos e Projetos**: Atuação com metodologias ágeis (Scrum, Kanban, SAFe) em projetos de TI, incluindo ERP e RPA  
-📊 **Análise de Dados e BI**: Construção de dashboards e KPIs para gestão estratégica  
-💰 **Planejamento Financeiro**: Desenvolvimento de indicadores para gestão orçamentária e recuperação tributária  
-📈 **Vendas de TI B2B**: Experiência em soluções de tecnologia para o setor governamental  
+📌 **Certificações:**  
+✔️ PSM I (Scrum Master) | Agile Coach Professional  
+✔️ Especialista em Pipefy (BPMS e automação de processos)  
 
-## 📫 Contato  
+---
+
+### 🚀 Minhas Contribuições no GitHub  
+
+![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)](https://github.com/seu-usuario)  
+
+---
+
+### 📫 Como me encontrar  
 🔗 [LinkedIn](https://www.linkedin.com/in/augusto-moreira-b41491211/)  
+📧 augusto.moreira@email.com  
 
-💻 Sempre explorando novas tecnologias e compartilhando conhecimento! 🚀
+💻 Sempre explorando novas tecnologias e compartilhando conhecimento! 🚀  
