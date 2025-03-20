@@ -27,14 +27,13 @@
 
 ### 🚀 Minhas Contribuições no GitHub  
 
-![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)  
+![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitcollab-AT&show_icons=true&theme=dracula)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)](https://github.com/seu-usuario)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitcollab-AT&layout=compact&theme=dracula)](https://github.com/Gitcollab-AT)  
 
 ---
 
 ### 📫 Como me encontrar  
-🔗 [LinkedIn](https://www.linkedin.com/in/augusto-moreira-b41491211/)  
-📧 augusto.moreira@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/augusto-moreira)  
 
 💻 Sempre explorando novas tecnologias e compartilhando conhecimento! 🚀  
