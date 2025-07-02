@@ -9,7 +9,7 @@
 ### 🏆 Sobre mim  
 📌 **Formação:**  
 🎓 Administração de Empresas | MBA em Planejamento Empresarial  
-📊 Pós em Arquitetura e Engenharia de Dados | 🚀 Cursando Engenharia de Software  
+📊 Pós em Arquitetura e Engenharia de Dados | 🚀 Cursando Engenharia de IA com Machine Learning  
 
 📌 **Experiência:**  
 💼 Gestão de Produtos e Projetos | 📊 Análise de Dados e BI  
